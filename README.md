@@ -1,7 +1,7 @@
 I'm gonna pop some tags <br />
-Only got 20 dollars in my pocket
-I'm, I'm, I'm hunting, looking for a come up
-This is fucking awesome
+Only got 20 dollars in my pocket <br />
+I'm, I'm, I'm hunting, looking for a come up <br />
+This is fucking awesome <br />
 
 
 <!---
